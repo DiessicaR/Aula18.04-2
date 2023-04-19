@@ -45,20 +45,34 @@ e)Remova da lista o item de índice que o usuário escolheu.
 f)Imprima o array no console
 */
 
+let listaDeTarefas = array 
 
-/* 1) Receba uma frase e retorneum array onde cada elemento é uma das palavras da frase, ignorando os espaços
-2) Dado o array [ Banana Morango Abacaxi Laranja Ameixa], faça um programa que acha o índice da palavra Abacaxi e imprime tanto o índice quanyto o tamanho do Array
-3) Faça um programa que contenha um array com 5 das suas comidas preferidas, armazenado em uma variável. Em seguida, siga os passos: 
+listaDeTarefas = array
+
+
+
+
+
+
+
+
+
+/* 1) Receba uma frase e retorne um array onde cada elemento é uma das palavras da frase, ignorando os espaços
+2) Dado o array [ "Banana", "Morango", "Abacaxi", "Laranja", "Ameixa"], faça um programa que acha o índice da palavra Abacaxi e imprime tanto o índice quanto o tamanho do Array
+3) Faça um programa que contenha um array com 5 das suas comidas preferidas, armazenado em uma variável.
+Em seguida, siga os passos: 
 
 a)Imprima no console o array completo
-b) Imprima no console a mensagem "Essas são as minhas comidas preferidas: ", seguida por cada uma das comidas, "uma embaixo da outra"
+b) Imprima no console a mensagem "Essas são as minhas comidas preferidas: ", seguida por cada uma das comidas, *uma embaixo da outra* /
 c)Aqui vai um desafio: pergunte ao usuário uma comida preferida. Troque a segunda comida da sua lista pela inserida pelo usuário.Imprima no console a nova lista
 */
 
 
-/* 4. Crie u mscript que pergunte 3 n´puneris ai usuário, coloque em um array, depois exiba tal array. 
+
+
+
+/* 4. Crie um script que pergunte 3 números ao usuário, coloque em um array, depois exiba tal array. 
 Modifique os elementos do array de modo e a sequência de números ficar do contrário.
 Ou seja, se digitou: 1,2,3
 vai aparecer: 3,2,1
-* /
-
+*/
